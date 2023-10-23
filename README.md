@@ -5,7 +5,7 @@ Este é o repositório do projeto "One Piece" relacionado ao canal YouTube "Dev 
 
 ## Descrição do Projeto
 
-O projeto "One Piece" é um projeto web desenvolvido em HTML, JavaScript e CSS que tem como objetivo [insira a descrição principal do projeto].
+O projeto "One Piece" é um projeto web desenvolvido em HTML, JavaScript e CSS que tem como objetivo aprendizado de desenvolvimento web.
 
 ## Tecnologias Utilizadas
 
